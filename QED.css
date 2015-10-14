@@ -1,0 +1,53 @@
+/* CSS Document */
+body {
+  background-color: #fee;
+}
+
+h2 {
+  font-size: 190%;
+  color: rgb(225,88,24);
+}
+
+table { 
+  border-radius: 15px;
+  -moz-border-radius: 15px;
+  -webkit-border-radius: 15px;
+  background: rgb(225,88,24);
+  width: 350px;
+}
+
+td {
+  padding: 4px 8px 4px 12px;
+}
+
+b {
+  color: white;
+  font-weight: normal;
+}
+
+p {
+  font-size: 130%;
+}
+
+#page {}
+
+#header {
+  height: 100px;
+  background: url("QED QA tick.png"); 
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+#navbar li {
+  display: inline;
+  padding: 20px;
+
+  color: rgb(225,88,24);
+}
+
+#leftpane {
+}
+
+#mainpane {
+}
+
+#footer {}

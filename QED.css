@@ -33,7 +33,7 @@ p {
 
 #header {
   height: 100px;
-  background: url("QED QA tick.png"); 
+  background: url("/images/QED QA tick.png"); 
   background-repeat: no-repeat;
   background-size: contain;
 }
